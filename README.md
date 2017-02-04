@@ -14,3 +14,7 @@
 #####[写给大数据开发初学者的话](http://lxw1234.com/archives/2016/11/782.htm)
 
 ######[使用 Google Guava 美化你的 Java 代码：1~4](http://blog.csdn.net/fenghuibian/article/details/53220329)
+
+
+###maven
+#####[Maven环境的搭建与idea配置](http://blog.csdn.net/wisgood/article/details/41787371)
